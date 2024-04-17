@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Hayriye Yigit and I'm a Full Stack Developer, from Berlin</p>
+<p align="left">My name is  Hayriye Yigit and I'm a Full Stack Development Student, from Berlin</p>
 
 ###
 
